@@ -23,5 +23,5 @@ To view or use this website locally, follow these steps:
    git clone https://github.com/wibrar/Portfolio.git
 
    ## ScreenSHot
-   
-    ![screenshotimg](Downloads/ss.jpg)
+
+    ![screenshotimg][ss.jpeg]
